@@ -4,8 +4,8 @@
 
 - [Descrição](#Descrição)
 - [Funcionalidades](#Funcionalidades)
-- [Tecnologias Usadas](#TecnologiasUsadas)
-- [Como Usar](#ComoUsar)
+- [Tecnologias Usadas](#Tecnologias)
+- [Como Usar](#Como)
 - [Contribuições](#contribuições)
 - [Licença](#Licença)
 
@@ -27,13 +27,13 @@ Além do conversor de moedas, o projeto inclui uma calculadora de IMC e uma list
 - Calculadora de Índice de Massa Corporal (IMC).
 - Aplicativo de lista de tarefas (ToDo) para gerenciar atividades.
 
-## Tecnologias Usadas
+## Tecnologias
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 
-## Como Usar
+## Como
 1. Clone o repositório:
    ```bash
    git clone https://github.com/GitHubJordan/JAMConMoedas.git
