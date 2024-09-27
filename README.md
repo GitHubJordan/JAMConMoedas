@@ -4,8 +4,8 @@
 
 - [Descrição](#Descrição)
 - [Funcionalidades](#Funcionalidades)
-- [TecnologiasUsadas](#Tecnologias Usadas)
-- [ComoUsar](#Como Usar)
+- [Tecnologias Usadas](#TecnologiasUsadas)
+- [Como Usar](#ComoUsar)
 - [Contribuições](#contribuições)
 - [Licença](#Licença)
 
